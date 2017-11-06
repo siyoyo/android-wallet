@@ -29,7 +29,7 @@
             android:orientation="vertical">
 
             <EditText
-                android:id="@+id/editText"
+                android:id="@+id/newWalletPrivateKey"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Secure wallet with password"
@@ -37,7 +37,7 @@
                 android:inputType="textPassword" />
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/newWalletButton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Create Wallet" />
