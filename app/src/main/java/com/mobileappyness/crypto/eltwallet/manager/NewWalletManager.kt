@@ -42,6 +42,6 @@ class NewWalletManager {
         webView.webViewClient = webViewClient
         webView.settings.javaScriptEnabled = true
         webView.settings.defaultTextEncodingName = "utf-8"
-        webView.loadUrl("/app/src/main/assets/index.html")
+        webView.loadUrl("/app/src/main/assets/dist/index.html")
     }
 }
