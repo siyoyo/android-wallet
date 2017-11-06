@@ -25,11 +25,8 @@ Launch App
 ## Setup
 
 ``` bash
-# Install Cocoa Pods
-$ ngem install cocoapods
-
-# Install pods
-$ pod install
+# Install Android Studo 3 With Kotlin
+# Open and Build project
 ```
 
 ## TODO
